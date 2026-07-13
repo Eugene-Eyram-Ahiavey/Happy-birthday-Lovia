@@ -12,16 +12,15 @@ export const messages = [
 ];
 
 export const photos = [
-    "/images/mobile-lovia1.jpeg",
-    "/images/mobile-lovia2.jpeg",
-    "/images/mobile-lovia3.jpeg",
-    "/images/mobile-lovia5.jpeg",
-    "/images/mobile-lovia6.jpg",
-    "/images/mobile-lovia7.JPG",
-    "/images/mobile-lovia8.JPG",
-    "/images/mobile-lovia9.jpg",
-    "/images/mobile-lovia10.JPG",
-    "/images/mobile-lovia12.JPG",
-    "/images/mobile-lovia13.jpg",
-    "/images/mobile-lovia14.jpg"
+  "/images/compressed-lovia1.jpg",
+  "/images/compressed-lovia2.jpg",
+  "/images/compressed-lovia3.jpg",
+  "/images/compressed-lovia4.jpg",
+  "/images/compressed-lovia5.jpg",
+  "/images/compressed-lovia6.jpg",
+  "/images/compressed-lovia7.jpg",
+  "/images/compressed-lovia8.jpg",
+  "/images/compressed-lovia9.jpeg",
+  "/images/compressed-lovia10.jpeg",
+  "/images/compressed-lovia11.jpeg"
 ];
