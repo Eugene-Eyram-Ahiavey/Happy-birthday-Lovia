@@ -55,7 +55,8 @@ function App() {
 
       <audio
         ref={audioRef}
-        src={birthdayMusic} 
+        src={birthdayMusic}
+        loop
       />
 
 
