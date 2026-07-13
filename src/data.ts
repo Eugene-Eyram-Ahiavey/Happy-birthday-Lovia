@@ -17,11 +17,11 @@ export const photos = [
   "/images/mobile-lovia3.jpeg",
   "/images/mobile-lovia5.jpeg",
   "/images/mobile-lovia6.jpg",
-  "/images/mobile-lovia7.JPG",
-  "/images/mobile-lovia8.JPG",
+  "/images/mobile-lovia7.jpg",
+  "/images/mobile-lovia8.jpg",
   "/images/mobile-lovia9.jpg",
-  "/images/mobile-lovia10.JPG",
-  "/images/mobile-lovia12.JPG",
+  "/images/mobile-lovia10.jpg",
+  "/images/mobile-lovia12.jpg",
   "/images/mobile-lovia13.jpg",
   "/images/mobile-lovia14.jpg"
 ];
